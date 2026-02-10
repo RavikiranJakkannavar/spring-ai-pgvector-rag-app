@@ -38,5 +38,4 @@ User Query → Embedding → Vector Search (PGVector) → Context Retrieval → 
 👨‍💻 Author
 
 Ravikiran Jakkannavar
-Software Engineer | AI Enthusiast
 
