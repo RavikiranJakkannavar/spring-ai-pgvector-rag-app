@@ -35,15 +35,8 @@ User Query → Embedding → Vector Search (PGVector) → Context Retrieval → 
 
 ---
 
-## ⚙️ How to Run the Application
-
-### 1️⃣ Install Docker & Start PGVector database
 
 ## 👨‍💻 Author
 
 **Ravikiran Jakkannavar**  
-Software Engineer | Programmer | AI Enthusiast  
-
-
-```bash
-docker compose up -d
+Software Engineer | Programmer | AI Enthusiast
