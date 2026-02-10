@@ -8,12 +8,12 @@ This project demonstrates how to store embeddings in Postgres and use them to re
 
 ## 🚀 Features
 
-- Spring Boot REST API
-- Spring AI integration
-- PGVector for vector storage & similarity search
-- Document ingestion & embedding
-- Context-aware AI responses
-- Docker support for database
+- Spring Boot REST API  
+- Spring AI integration  
+- PGVector for vector storage & similarity search  
+- Document ingestion & embedding  
+- Context-aware AI responses  
+- Docker support for database  
 
 ---
 
@@ -25,17 +25,25 @@ User Query → Embedding → Vector Search (PGVector) → Context Retrieval → 
 
 ## 🛠 Tech Stack
 
-- Java 17+
-- Spring Boot
-- Spring AI
-- PostgreSQL
-- PGVector
-- Maven
-- Ollama / OpenAI (depending on what you use)
+- Java 25+  
+- Spring Boot  
+- Spring AI  
+- PostgreSQL  
+- PGVector  
+- Maven  
+- Ollama / OpenAI (depending on configuration)
 
 ---
 
-👨‍💻 Author
+## ⚙️ How to Run the Application
 
-Ravikiran Jakkannavar
+### 1️⃣ Install Docker & Start PGVector database
 
+## 👨‍💻 Author
+
+**Ravikiran Jakkannavar**  
+Software Engineer | Programmer | AI Enthusiast  
+
+
+```bash
+docker compose up -d
