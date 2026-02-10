@@ -8,10 +8,10 @@ import org.springframework.context.annotation.Bean;
 import javax.sql.DataSource;
 
 @SpringBootApplication
-public class SpringaiApplication {
+public class SpringAiRagApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SpringaiApplication.class, args);
+		SpringApplication.run(SpringAiRagApplication.class, args);
 	}
 
 	@Bean
